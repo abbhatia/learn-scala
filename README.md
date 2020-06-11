@@ -1,6 +1,7 @@
 **Table of Contents**
 
-[TOC]
+- [FSiS Part 2 - Applicative type class](#fsis-part-2---applicative-type-class)
+
 
 # FSiS Part 2 - Applicative type class
 
