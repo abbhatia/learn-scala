@@ -4,6 +4,11 @@
 - [Why applicatives](#why-applicatives)
 - [Start from](#start-from)
 
+# FSiS Part 1 - Type Constructors, Functors, and Kind Projector
+
+https://youtu.be/Dsd4pc99FSY?t=1031
+
+
 # FSiS Part 2 - Applicative type class
 
 https://www.youtube.com/watch?v=tD_EyIKqqCk&t=1426s
@@ -22,5 +27,4 @@ Applicatives allows us to apply functions of arbitrary arity (>=1) to its argume
 
 https://youtu.be/tD_EyIKqqCk?t=2553
 
-https://youtu.be/Dsd4pc99FSY?t=1031
 Read speficis of how monads/applicatives
